@@ -1,4 +1,4 @@
-# tarsau - Arşivleme Aracı
+# tarsau - Arşivleme Aracı 
 
 ## Proje Hakkında
 Bu proje, Sakarya Üniversitesi Bilgisayar Mühendisliği Sistem Programlama dersi kapsamında geliştirilmiş bir komut satırı arşivleme aracıdır. [cite_start]`tar`, `rar` veya `zip` gibi çalışır ancak **sıkıştırma (compression) yapmaz**[cite: 11, 239]. [cite_start]Birden fazla metin (ASCII) dosyasını tek bir `.sau` uzantılı arşiv dosyasında birleştirir ve istendiğinde orijinal dosya izinlerini (okuma, yazma, çalıştırma) koruyarak geri çıkarır[cite: 14, 18, 266].
